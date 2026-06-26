@@ -53,18 +53,18 @@ Foco em **back-end**, **automação de processos** e **dados**. Atualmente expan
 
 | Projeto | O que faz | Stack |
 |---|---|---|
-| [**ans-data-pipeline**](https://github.com/Augustuuuuu/ans-data-pipeline) | Coleta e processa dados públicos da ANS em pipeline ETL com +6 milhões de registros | Python · FastAPI · MySQL · Docker |
-| [**gmaps-b2b-scraper**](https://github.com/Augustuuuuu/gmaps-b2b-scraper) | Scraper que coleta leads reais do Google Maps e sincroniza automaticamente com Notion | Python · Playwright · Pandas · Notion API |
-| [**star-wars-api**](https://github.com/Augustuuuuu/star-wars-api) | API serverless deployada no GCP com Cloud Functions e API Gateway, testada com pytest | Python · Cloud Functions · API Gateway |
-| [**flowset**](https://github.com/Augustuuuuu/flowset) | App desktop para lançar múltiplos programas organizados por perfil | Electron · JavaScript · HTML/CSS |
-| [**clube-beneficios**](https://github.com/Augustuuuuu/clube-beneficios) | Plataforma de clube de benefícios com deploy na Render | Django · PostgreSQL · Render |
-| [**Automation-Serpro**](https://github.com/Augustuuuuu/Automation-Serpro) | Automação usada em ambiente real no SERPRO para contagem de pontos de função | Python |
+| [**ans-data-pipeline**](https://github.com/augustosaboia/ans-data-pipeline) | Coleta e processa dados públicos da ANS em pipeline ETL com +6 milhões de registros | Python · FastAPI · MySQL · Docker |
+| [**gmaps-b2b-scraper**](https://github.com/augustosaboia/gmaps-b2b-scraper) | Scraper que coleta leads reais do Google Maps e sincroniza automaticamente com Notion | Python · Playwright · Pandas · Notion API |
+| [**star-wars-api**](https://github.com/augustosaboia/star-wars-api) | API serverless deployada no GCP com Cloud Functions e API Gateway, testada com pytest | Python · Cloud Functions · API Gateway |
+| [**flowset**](https://github.com/augustosaboia/flowset) | App desktop para lançar múltiplos programas organizados por perfil | Electron · JavaScript · HTML/CSS |
+| [**clube-beneficios**](https://github.com/augustosaboia/clube-beneficios) | Plataforma de clube de benefícios com deploy na Render | Django · PostgreSQL · Render |
+| [**Automation-Serpro**](https://github.com/augustosaboia/Automation-Serpro) | Automação usada em ambiente real no SERPRO para contagem de pontos de função | Python |
 
 ---
 
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=augustuuuuu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=augustuuuuu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=augustosaboia&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=augustosaboia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" alt="Top Languages" />
 </div>
